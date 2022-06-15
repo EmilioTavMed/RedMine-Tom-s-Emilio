@@ -20,4 +20,8 @@ Otras herramientas que incluye son calendario de actividades, diagramas de Gantt
    -  Soporta diferentes bases de datos (MySQL, PostgreSQL y SQLite).
    -  Extensiones
 
-### 
+### Fecha de Creación, Autor, actualización y Tipo de Programa
+El lanzamiento inicial 25 de junio de 2006.
+La última actualización fue el 1 de agosto de 2021
+Fue creado por Jean-Philippe Lang
+Y es un Gestión de proyectos y Sistema de seguimiento de errores
