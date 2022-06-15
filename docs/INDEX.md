@@ -29,6 +29,8 @@ Fue creado por **Jean-Philippe Lang.**
 
 Y es un Gestión de proyectos y Sistema de seguimiento de errores.
 
+**[Página Oficial](https://www.redmine.org/)**
+
 [Guia de Instalación](Instalacion.md)
 
 [Guia de Funcionamiento](Funcionamiento.md)
